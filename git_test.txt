@@ -4,3 +4,4 @@ test2
 ・git commit
 ・git rm
 ・git status
+・git diff
